@@ -4,4 +4,4 @@
 
 # They are all written in .ipynb formats in order for me to explain what every block does excatly.
 
-# Be Sure to check out the Brain tumor segmentation https://github.com/ChinemeremEze/ai-projects/blob/master/brain-tumor-segmentation-using-MRI.ipynb
+# Be sure to check out the Brain Tumor Segmentation Project: https://github.com/ChinemeremEze/ai-projects/blob/master/brain-tumor-segmentation-using-MRI.ipynb
